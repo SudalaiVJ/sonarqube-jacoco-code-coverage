@@ -18,9 +18,9 @@ dependencies {
 
 sonarqube {
     properties {
-        property 'sonar.host.url', 'http://localhost:9000'
+        property 'sonar.host.url', 'http://38.242.220.73:9000/'
         property 'sonar.login', 'admin'
-        property 'sonar.password', 'admin'
+        property 'sonar.password', 'your_password'
     }
 }
 
